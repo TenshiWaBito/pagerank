@@ -1,2 +1,2 @@
 # pagerank
-Task 1, 2
+Tasks 1, 2
